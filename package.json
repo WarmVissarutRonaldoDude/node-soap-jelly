@@ -1,0 +1,17 @@
+{
+  "name": "node-soap-jelly",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "client": "node ./src/client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "soap": "^0.24.0"
+  }
+}
